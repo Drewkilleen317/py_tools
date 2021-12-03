@@ -26,7 +26,7 @@ A GKI of 9+ is not in ketosis.  Like golf scores, a lower gki is better.
 # The Glucose / Ketone Index (GKI) runs from 0 to 9 for a person in Ketosis
 # =============================================================================
 
-gki = 4.5
+gki = 5.5
 
 # =============================================================================
 # Method 1 - My preferred method
