@@ -21,7 +21,7 @@ Change the gki and rerun it to see what it returns for various gki values which
 typically range from 2.9 (Super) to 7.5 (low) when someone is in ketosis.
 A GKI of 9+ is not in ketosis.  Like golf scores, a lower gki is better. 
 """
-"ljhgjhgjhgk"
+
 # =============================================================================
 # The Glucose / Ketone Index (GKI) runs from 0 to 9 for a person in Ketosis
 # =============================================================================
